@@ -6,3 +6,5 @@ For the capstone project in my Data Science Program, I decided to work on a Kagg
 
 ## Table of Contents
 * [Data Cleaning] (#data-cleaning)
+
+## Data Cleaning
