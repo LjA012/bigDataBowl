@@ -2,7 +2,7 @@
 Repository to show the journey and work for my submission on the Big Data Bowl Kaggle competition. 
 
 ## Table of Contents
-* [Purpose] (doc:purpose)
+* [Purpose] (doc:Purpose)
 * [Data Cleaning]
 
 ## Purpose
