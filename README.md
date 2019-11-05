@@ -2,7 +2,7 @@
 Repository to show the journey and work for my submission on the Big Data Bowl Kaggle competition. 
 
 ## Table of Contents
-* [Purpose] 
+* [Purpose] (https://github.com/LjA012/bigDataBowl/blob/master/README.md)
 * [Data Cleaning]
 
 ## Purpose
