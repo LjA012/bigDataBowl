@@ -19,4 +19,4 @@ I spent a large chunk of time getting to know the data and understanding all of 
 
 ## Notebooks
 There are two notebooks that hold the bulk of the code.  The notebook called cleaningFunctions, is the notebook I created after my initial EDA - so it does not show all of my cleaning techniques - but if you are interested in that, reach out and I would be happy to help. Shows all of the end result cleaning code and the start of testing and running models.
-The notebook called testingNotebook only takes the numerical data that was standardized and goes deeper into ML techniques. Used TensorFlow and Keras, which meant creating a new environment to host python 3.6.9 to run TF. Started with linear regression and regularization techniques, then finished with neural network.
+The notebook called testingNotebook only takes the numerical data that was standardized and goes deeper into ML techniques. Used TensorFlow and Keras, which meant creating a new environment to host python 3.6.9 to run TF. Started with linear regression and regularization techniques, then finished with neural network. 
